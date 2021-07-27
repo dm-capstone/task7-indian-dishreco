@@ -1,0 +1,75 @@
+,dish_name_pop,count_pop,dish_name_res,count_res,popularity
+0,chicken tikka,1054,mango lassi,182,191828
+1,garlic naan,997,chicken tikka,112,111664
+2,mango lassi,822,garlic naan,106,87132
+3,chicken tikka masala,787,chicken tikka masala,101,79487
+4,tandoori chicken,527,tandoori chicken,84,44268
+5,butter chicken,292,basmati rice,64,18688
+6,basmati rice,249,gulab jamun,57,14193
+7,rice pudding,189,butter chicken,57,10773
+8,palak paneer,185,palak paneer,55,10175
+9,saag paneer,174,lamb curry,54,9396
+10,lamb vindaloo,169,rice pudding,51,8619
+11,gulab jamun,155,chana masala,50,7750
+12,goat curry,146,saag paneer,46,6716
+13,lamb curry,146,lamb vindaloo,44,6424
+14,malai kofta,139,ice cream,44,6116
+15,chana masala,102,malai kofta,44,4488
+16,ice cream,97,vegetable pakora,43,4171
+17,masala dosa,90,garlic nan,42,3780
+18,vegetable samosa,88,goat curry,40,3520
+19,chai tea,86,aloo gobi,39,3354
+20,garlic nan,82,chicken tikki masala,38,3116
+21,aloo gobi,81,tika masala,38,3078
+22,chicken makhani,81,vegetable samosa,36,2916
+23,rogan josh,77,lamb korma,35,2695
+24,lamb korma,70,mint chutney,35,2450
+25,vegetable pakora,65,chai tea,34,2210
+26,chicken tikki masala,63,rogan josh,33,2079
+27,tamarind sauce,57,chicken makhani,32,1824
+28,mint chutney,56,chicken tika,31,1736
+29,tika masala,53,tamarind sauce,31,1643
+30,vegetable samosas,49,yogurt sauce,30,1470
+31,chicken tika,47,vegetable samosas,29,1363
+32,fish curry,46,lamb biryani,28,1288
+33,lentil soup,46,tandori chicken,27,1242
+34,yogurt sauce,45,white rice,25,1125
+35,lamb biryani,45,lentil soup,25,1125
+36,veggie samosas,45,masala dosa,23,1035
+37,tiki masala,45,tamarind chutney,23,1035
+38,tandori chicken,40,onion bhaji,23,920
+39,mango ice,37,tiki masala,23,851
+40,mango custard,37,channa masala,22,814
+41,tamarind chutney,37,fish curry,22,814
+42,mango ice cream,36,bhindi masala,22,792
+43,tomato soup,35,mutter paneer,22,770
+44,fried rice,34,veggie samosas,22,748
+45,dal makhani,34,chicken breast,22,748
+46,shahi paneer,34,eggplant dish,21,714
+47,veggie korma,33,vegetable biryani,21,693
+48,lamb rogan,33,chick peas,20,660
+49,chicken breast,33,sunday night,20,660
+50,chick peas,31,veggie korma,19,589
+51,white rice,31,cottage cheese,19,589
+52,bhindi masala,31,shahi paneer,18,558
+53,lamb rogan josh,31,fried rice,17,527
+54,channa masala,30,dal makhani,17,510
+55,flat bread,30,yogurt drink,17,510
+56,eggplant dish,30,carrot halwa,17,510
+57,onion bhaji,30,lamb rogan,17,510
+58,paneer pakora,30,flat bread,16,480
+59,mutter paneer,29,tomato soup,15,435
+60,coconut chutney,29,lamb chops,15,435
+61,yogurt drink,26,mango ice,15,390
+62,vegetable biryani,26,lamb rogan josh,15,390
+63,sunday night,26,pilau rice,15,390
+64,carrot halwa,25,paneer pakora,15,375
+65,cottage cheese,24,mango custard,14,336
+66,brown rice,23,coconut chutney,14,322
+67,lamb chops,23,mango ice cream,14,322
+68,samosa chaat,19,chicken tikka marsala,14,266
+69,pilau rice,19,samosa chaat,10,190
+70,pani puri,18,pani puri,8,144
+71,chicken tikka marsala,17,brown rice,7,119
+72,tikka masala fries,15,mango yogurt drink,7,105
+73,mango yogurt drink,10,tikka masala fries,1,10
